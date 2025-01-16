@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.blog{
+    margin: 50px;
+    /* width: 400px; */
+    border: 2px solid tomato;
+    box-shadow: 0px 10px 10px violet;
+
+}
+
+h3{
+    /* text-decoration: overline; */
+    text-decoration: underline;
+    font-family:cursive;
+}
+
+.bla{
+border: 2px solid rgb(192, 13, 13);
+/* display: block; */
+/* height: 100px; */
+margin: 30px;
+/* padding: 30px; */
+display: inline-block;
+
+}
+
+
+.list li{
+    margin-left: 10px;
+    display:inline;
+}
+
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+
+.header{
+    height: 700px;
+    background-image: url(../media/back.webp);
+    /* background-repeat: no-repeat; */
+    /* background-repeat: repeat-x; */
+    /* background-size: auto; */
+    /* background-size: cover; */
+background-size: contain;
+background-position: right;
+}

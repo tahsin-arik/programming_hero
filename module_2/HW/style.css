@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 150px;
+    background-image: url(media/cover3.jpg);
+    background-size: cover;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+}
+
+#welcome {
+    color: white;
+    filter: drop-shadow(1px 1px 10px rgb(255, 255, 255));
+}
+
+.container {
+    background-color: wheat;
+}
+
+.content {
+    background-color: rgba(0, 0, 0, 0.774);
+    margin: auto;
+    margin-bottom: 20px;
+    border: 2px solid red;
+    border-radius: 5px 20px;
+    min-width: 300px;
+    max-width: 700px;
+}
+
+.heading {
+    text-align: center;
+    color: whitesmoke;
+    text-decoration: underline;
+    padding: 10px;
+
+}
+
+.blog_text {
+    text-align: justify;
+    padding: 15px;
+    color: coral;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.point {
+    font-weight: bold;
+    text-decoration: underline;
+    color: whitesmoke;
+    padding: 15px 0px;
+    display: block;
+
+}
+
+.poyem {
+    color: aqua;
+}
+
+.why li{
+    color: green;
+    display: inline-block;
+    margin-left: 5px;
+}

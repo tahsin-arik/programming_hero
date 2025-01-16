@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav >ul >li {
+display: inline;
+margin-right: 15px;
+}
+
+nav li >a{
+    text-decoration: none;
+    color: tomato;
+}
+
+footer{
+    margin-top: 30px;
+    text-align: center;
+}
